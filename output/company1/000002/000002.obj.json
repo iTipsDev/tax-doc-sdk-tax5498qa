@@ -1,0 +1,48 @@
+{
+  "taxYear" : 2025,
+  "accountId" : "88-660-9499",
+  "taxFormId" : "1753383",
+  "taxFormDate" : "2025-12-31",
+  "issuer" : {
+    "tin" : "00-0298016",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Davis Inc"
+    },
+    "address" : {
+      "line1" : "63398 Berry Mountain",
+      "city" : "Eliland",
+      "region" : "IA",
+      "postalCode" : "01857"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "noe.rolfson@hotmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-10-3266",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Terrance",
+      "last" : "McLaughlin"
+    },
+    "address" : {
+      "line1" : "84375 Cummerata Mall",
+      "city" : "East Cornellborough",
+      "region" : "MD",
+      "postalCode" : "47371"
+    },
+    "email" : "kevin.ortiz@hotmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "715-60253-7",
+  "ableContributions" : 200,
+  "rollovers" : 300,
+  "cumulativeContributions" : 400,
+  "fairMarketValue" : 500,
+  "openedInTaxYear" : true,
+  "basisOfDisabilityCode" : "basisOfDisabilityCode",
+  "typeOfDisabilityCode" : "typeOfDisabilityCode"
+}

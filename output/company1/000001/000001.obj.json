@@ -1,0 +1,48 @@
+{
+  "taxYear" : 2025,
+  "accountId" : "98-675-4422",
+  "taxFormId" : "7030611",
+  "taxFormDate" : "2025-12-31",
+  "issuer" : {
+    "tin" : "00-0298016",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Davis Inc"
+    },
+    "address" : {
+      "line1" : "63398 Berry Mountain",
+      "city" : "Eliland",
+      "region" : "IA",
+      "postalCode" : "01857"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "noe.rolfson@hotmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-36-6042",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Laree",
+      "last" : "Blick"
+    },
+    "address" : {
+      "line1" : "87912 Champlin Wall",
+      "city" : "North Jospeh",
+      "region" : "AR",
+      "postalCode" : "49894"
+    },
+    "email" : "ivory.denesik@yahoo.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "047-88660-7",
+  "ableContributions" : 200,
+  "rollovers" : 300,
+  "cumulativeContributions" : 400,
+  "fairMarketValue" : 500,
+  "openedInTaxYear" : true,
+  "basisOfDisabilityCode" : "basisOfDisabilityCode",
+  "typeOfDisabilityCode" : "typeOfDisabilityCode"
+}

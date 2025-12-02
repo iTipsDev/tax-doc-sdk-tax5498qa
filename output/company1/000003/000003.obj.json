@@ -1,0 +1,48 @@
+{
+  "taxYear" : 2025,
+  "accountId" : "89-480-5877",
+  "taxFormId" : "3638038",
+  "taxFormDate" : "2025-12-31",
+  "issuer" : {
+    "tin" : "00-0298016",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Davis Inc"
+    },
+    "address" : {
+      "line1" : "63398 Berry Mountain",
+      "city" : "Eliland",
+      "region" : "IA",
+      "postalCode" : "01857"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "noe.rolfson@hotmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-59-6587",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Frank",
+      "last" : "Kunde"
+    },
+    "address" : {
+      "line1" : "2017 Gabriele Crossing",
+      "city" : "Demarcusside",
+      "region" : "UT",
+      "postalCode" : "61629"
+    },
+    "email" : "jerome.jones@yahoo.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "030-80935-9",
+  "ableContributions" : 200,
+  "rollovers" : 300,
+  "cumulativeContributions" : 400,
+  "fairMarketValue" : 500,
+  "openedInTaxYear" : true,
+  "basisOfDisabilityCode" : "basisOfDisabilityCode",
+  "typeOfDisabilityCode" : "typeOfDisabilityCode"
+}
