@@ -1,0 +1,57 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "96-365-0710",
+  "taxFormId" : "8230441",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0162543",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Hoppe-McCullough"
+    },
+    "address" : {
+      "line1" : "525 Moore Prairie",
+      "city" : "Schowalterborough",
+      "region" : "WV",
+      "postalCode" : "35183",
+      "unitType" : "Apt",
+      "unitNumber" : "681"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "renetta.corkery@yahoo.com"
+  },
+  "recipient" : {
+    "tin" : "000-94-6741",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Arnoldo",
+      "middle" : "Fredric",
+      "last" : "Konopelski"
+    },
+    "businessName" : {
+      "name1" : "Lesch, Crooks and Swaniawski"
+    },
+    "address" : {
+      "line1" : "5274 Eduardo Plains",
+      "city" : "South Gerimouth",
+      "region" : "WV",
+      "postalCode" : "10122",
+      "unitType" : "Apt",
+      "unitNumber" : "878"
+    },
+    "email" : "stephan.hyatt@yahoo.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "446-92803-6",
+  "ableContributions" : 200,
+  "rollovers" : 300,
+  "cumulativeContributions" : 400,
+  "fairMarketValue" : 500,
+  "openedInTaxYear" : true,
+  "basisOfDisabilityCode" : "A",
+  "typeOfDisabilityCode" : "1",
+  "trumpAccountRollovers" : 600
+}

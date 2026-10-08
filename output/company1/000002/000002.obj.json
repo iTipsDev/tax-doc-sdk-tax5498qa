@@ -1,0 +1,57 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "50-177-9626",
+  "taxFormId" : "5919044",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0162543",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Hoppe-McCullough"
+    },
+    "address" : {
+      "line1" : "525 Moore Prairie",
+      "city" : "Schowalterborough",
+      "region" : "WV",
+      "postalCode" : "35183",
+      "unitType" : "Apt",
+      "unitNumber" : "681"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "renetta.corkery@yahoo.com"
+  },
+  "recipient" : {
+    "tin" : "000-87-4095",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Blaine",
+      "middle" : "Samual",
+      "last" : "Senger"
+    },
+    "businessName" : {
+      "name1" : "Heidenreich and Sons"
+    },
+    "address" : {
+      "line1" : "1623 Vincent Crescent",
+      "city" : "East Elnora",
+      "region" : "SD",
+      "postalCode" : "69976",
+      "unitType" : "Apt",
+      "unitNumber" : "306"
+    },
+    "email" : "clark.becker@yahoo.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "677-14626-1",
+  "ableContributions" : 200,
+  "rollovers" : 300,
+  "cumulativeContributions" : 400,
+  "fairMarketValue" : 500,
+  "openedInTaxYear" : true,
+  "basisOfDisabilityCode" : "A",
+  "typeOfDisabilityCode" : "1",
+  "trumpAccountRollovers" : 600
+}

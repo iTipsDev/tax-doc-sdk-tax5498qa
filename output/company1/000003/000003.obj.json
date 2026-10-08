@@ -1,0 +1,57 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "55-361-4969",
+  "taxFormId" : "6507204",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0162543",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Hoppe-McCullough"
+    },
+    "address" : {
+      "line1" : "525 Moore Prairie",
+      "city" : "Schowalterborough",
+      "region" : "WV",
+      "postalCode" : "35183",
+      "unitType" : "Apt",
+      "unitNumber" : "681"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "renetta.corkery@yahoo.com"
+  },
+  "recipient" : {
+    "tin" : "000-32-4905",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Logan",
+      "middle" : "Susann",
+      "last" : "Jenkins"
+    },
+    "businessName" : {
+      "name1" : "Nicolas-Denesik"
+    },
+    "address" : {
+      "line1" : "922 Mills Drives",
+      "city" : "Earlfurt",
+      "region" : "OH",
+      "postalCode" : "43135",
+      "unitType" : "Apt",
+      "unitNumber" : "981"
+    },
+    "email" : "tony.boyle@gmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "896-65059-4",
+  "ableContributions" : 200,
+  "rollovers" : 300,
+  "cumulativeContributions" : 400,
+  "fairMarketValue" : 500,
+  "openedInTaxYear" : true,
+  "basisOfDisabilityCode" : "A",
+  "typeOfDisabilityCode" : "1",
+  "trumpAccountRollovers" : 600
+}
